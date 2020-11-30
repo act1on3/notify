@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/projectdiscovery/collaborator"
+	"github.com/act1on3/collaborator"
 	"github.com/projectdiscovery/gologger"
 	"github.com/projectdiscovery/notify"
 )
